@@ -66,7 +66,7 @@ namespace ConsoleApp1
 
         class Village
         {
-            public Village(string _villageName, bool _isAHere)
+            public Village(string _villageName, bool _isAHere) 
             {
                 isAstrildgeHere = _isAHere;
                 VillageName = _villageName;
